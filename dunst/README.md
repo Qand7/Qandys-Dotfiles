@@ -1,3 +1,5 @@
 My dunst config
 
-<img width="1920" height="1200" alt="dunst_showcase" src="https://github.com/user-attachments/assets/aafcddb8-c8cc-4a0f-b8f6-a29f0128bd3c" />
+<img width="1920" height="1200" alt="2026-06-14-224702_hyprshot" src="https://github.com/user-attachments/assets/08ed9e83-e3a2-43cb-b465-499d8c8a1e26" />
+
+<img width="1920" height="1200" alt="2026-06-14-224821_hyprshot" src="https://github.com/user-attachments/assets/c911f488-9c4b-4a99-b6ec-4cd58c791523" />
