@@ -1,0 +1,55 @@
+*{
+	font-family: 'JetBrainsMono Nerd Font', monospace;
+}
+
+window {
+	font-size: 24px;
+	background-color: rgba(20, 20, 20, 1);
+	color: white;
+	border: 3px solid rgb(53, 53, 53);
+    border-radius: 16px;
+}
+
+#input {
+	margin: 8px;
+	border-radius: 12px;
+	border: 2px solid rgba(12, 58, 105, 1);
+	background-color: rgba(25, 25, 25, 1);
+	font-size: 28px;
+	font-weight: normal;
+	color: white;
+}
+
+#input image {
+	border: none;
+	color: white;
+}
+
+#inner-box {
+    margin: 5px;
+    border: 2px solid rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0.2);
+}
+
+#inner-box image {
+    margin-right: 5px;
+}
+
+#outer-box {
+    margin-bottom: 10px;
+    border: 3px solid rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0);
+}
+
+#entry:selected {
+	background-color: rgb(40, 40, 50);
+    border-radius: 12px;
+	border: 3px solid rgb(217, 10, 10);
+}
+
+expander > list > #entry {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+

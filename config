@@ -1,0 +1,11 @@
+show=drun
+allow_images=true
+prompt=
+width=40%
+location=top
+yoffset=100
+hide_scroll=true
+no-custom-entry=true
+insensitive=true
+key_expand=Tab
+no_actions=true
